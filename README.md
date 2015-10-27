@@ -54,4 +54,8 @@ You'll see in **syncano-script.js** we have created two examples. The first is a
 
 On Plunker you can create an account and save your own plunks to share with others. Go ahead and use our Syncano template to create something cool, then make it public and share with the whole Plunker community! You can also use their templates for frameworks and just drop in our **syncano-script.js** file and the Syncano `<script>` tag in the html header to test it with those!
 
-For examples on how to use Syncano and different API calls you can make, take a look at our <a href="http://docs.syncano.com/" target="_blank">docs</a>.
+Here is the link to the GitHub repo, so you can download the files and test them locally, or contribute and create forks of your own!
+
+<a href="https://github.com/devintyler/syncano-plunker-template" target="_blank">Plunker Template GitHub Repo</a>
+
+**For examples on how to use Syncano and different API calls you can make, take a look at our <a href="http://docs.syncano.com/" target="_blank">docs</a>.**
