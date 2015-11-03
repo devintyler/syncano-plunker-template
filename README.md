@@ -1,10 +1,10 @@
-#Syncano Prototyping with Plunker (JS)
+# Syncano Prototyping with Plunker (JS)
 
 There are many times when I want to prototype the backend of an app before I worry about creating the front end, or before dealing with how the whole app is going to look. Of course, I could create a sample app with a bootstrap template, but what if I want to write my idea out _right now_?
 
 Let me introduce you to Plunker! If you haven't used Plunker yet, this is a great opportunity for you to try it out!
 
-##What Is Plunker?
+## What Is Plunker?
 
 Plunker is an online community for creating, collaborating on, and sharing your web development ideas._ **- Plnkr.co**
 
@@ -14,17 +14,15 @@ To benefit you as a Syncano user, we decided to create a Syncano Javascript Libr
 
 **Let's get started!**
 
-##Setting It Up
+## Setting It Up
 
 To get started, make sure you have a Syncano account. If you don't, visit our <a href="https://dashboard.syncano.io/#/signup" target="_blank">signup page</a> to create an account.
 
-If you already have an account, click on <a href="http://plnkr.co/edit/TjzdW0" target="_blank">this link</a> to open the Plunk.
+If you already have an account, click on <a href="http://plnkr.co/edit/tpl:TjzdW0" target="_blank">this link</a> to open the Plunk.
 
 You'll see that when you first open the code, there are a bunch of files listed on the left side of the window. These are the files you're going to edit in order to test your Syncano API calls. The only two you really have to worry about are **index.html** and **syncano-script.js**. Our Syncano JS Library is already included in that list of files, and already imported at the top of the **index.html** file, so that you can start using it right away!
 
-**Before you start using the Plunk template, click _"Fork"_ at the top of the window to save it as your own Plunk!**
-
-##Inserting API Info
+## Inserting API Info
 
 The next thing you'll need to do is insert your Account Key, Instance name, and Class name. To make it easy, we have created three variables at the top of **syncano-script.js** so that once you replace *"ACCOUNT_KEY"*, *"INSTANCE"*, and *"CLASS"* with your respective info, you'll be able to use those variables over and over to create your API calls. _Be aware that if you post your Plunk publicly, you should remove your API information!_
 
@@ -43,7 +41,7 @@ var myClass = "CLASS"; // The Class you want to use
 
 >To find your Class: When you are logged in and have selected your Instance, click on "Classes" in the left sidebar and you will get a list of Classes. This is where your data is stored.
 
-##Get Creative!
+## Get Creative!
 
 Once you have inserted your API info, it's time to get creative! The line below in the Plunker code creates a Syncano object, which you can reuse for your Syncano calls.
 
